@@ -17,6 +17,7 @@
     "webpack-cli": "^3.1.1"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.0.0"
+    "@babel/polyfill": "^7.0.0",
+    "icepick": "^2.3.1"
   }
 }
